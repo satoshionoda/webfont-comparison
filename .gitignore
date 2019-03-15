@@ -1,0 +1,16 @@
+#general files
+_notes/
+*.f4v
+*.mp4
+.DS_Store
+*.iml
+*.map
+.idea/
+npm-debug.log
+
+
+#folders
+node_modules/
+public_wp/
+public_static/
+public/
